@@ -1,0 +1,4 @@
+div [class*=col] {
+
+    BORDER: 1px solid;
+}

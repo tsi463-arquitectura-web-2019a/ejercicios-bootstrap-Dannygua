@@ -1,0 +1,25 @@
+.contenido1{
+    color: white;
+    background: #33BEBE;
+    margin: 30px 0px;
+
+}
+.contenido1 h1{
+
+    padding: 20px 0px 0px 20px;
+    font-size: 50px;
+    font-family: Arial;
+
+
+}
+
+.contenido2 img{
+    width: 100%;
+    box-shadow: black 10px 10px;
+}
+.contenido2 p{
+    width: 100%;
+    font-size: 18px;
+    font-family: Arial;
+    color: #7C8B88;
+}

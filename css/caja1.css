@@ -1,0 +1,67 @@
+.padre {
+    width: 100%;
+    height: 100%;
+    background: #131A2D;
+}
+
+.caja1 img {
+    width: 150px;
+}
+
+
+.caja3 img {
+    width: 100%;
+}
+
+
+.caja1, .caja2{
+    display: inline-block;
+}
+
+.caja2 {
+    float: right;
+    
+}
+
+.caja4,.caja5{
+
+    margin-bottom: 20px;
+    width: 40%;
+    background: wheat;
+    height: 60px;
+    display: inline-block;
+
+}
+
+.caja6,.caja9{
+
+    margin-bottom: 20px;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.caja10{
+
+    margin-bottom: 20px;
+    width: 40%;
+    background: wheat;
+    height: 60px;
+
+}
+
+.caja11{
+
+    margin-bottom: 20px;
+    width: 40%;
+    text-align: center;
+
+}
+
+
+.caja8 p{
+    width: 100%;
+    height: 10px;
+    background: red;
+}

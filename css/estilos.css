@@ -1,0 +1,13 @@
+body {font-size:20px ;background:url(../chii.jpg);background-position:-2000px 0px ;background-attachment:fixed;color:black}
+h1{font-size:60px;font-family: "Times New Roman"; text-align: center ;background:orange; border:10px solid black;background:url(../chii.jpg)}
+h2,h3{color:red; font-size:30px; margin: 10px 20px; text-decoration:underline}
+
+div img {position: relative; left:110px; border: 10px solid black}
+
+
+ p{color:black; margin:30px 50p; text-transform: capitalize}
+
+
+p .estilo2 {color: purple ; background:blue; font-size: 30px}
+
+

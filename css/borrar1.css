@@ -1,0 +1,25 @@
+body{
+    background: gray;
+}
+
+
+article p{
+    text-align: justify;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background: black;
+    padding: 20px;
+    margin: 0px 20px 60px;
+    border-top-color: red;
+    border-bottom-color: white;
+    border-style: solid;
+}
+
+
+
+article h1{
+
+    text-align: center;
+
+}

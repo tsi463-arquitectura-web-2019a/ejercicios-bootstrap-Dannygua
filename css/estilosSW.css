@@ -1,0 +1,87 @@
+body {background:url(../imagenes/chii.jpg);background-attachment: fixed }
+
+h1{color: black ; font-size: 35px ; text-align:center; border: 10px solid black; margin: 35px 250px; text-align: center }
+
+div { width:80%} 
+
+img {
+    width: 450px;
+    height: 400px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    box-shadow: 15px 15px black
+
+}
+.img1 {border: 10px solid cornflowerblue; width: 600px; height:auto}
+.haru {border: 10px solid orange; width: 600px;height: 400px;}
+.lily {border: 10px solid rgb(92, 0, 128)}
+.stella {border: 10px solid rgb(231, 191, 228)}
+.iris {border: 10px solid rgb(255, 166, 0)}
+.jin {border: 10px solid black}
+.erwin {border: 10px solid blue}
+
+h2{color:red ; font-size: 50px; text-align: center}
+p {font-size: 25px; margin:20px 60px ; text-align: justify}
+section .main p {color: black ; font-size: 25px; margin: 80px 60px} 
+aside p{color:black; font-size: 25px; margin: 0px 0px}
+
+a:link {
+
+    color: red
+
+}
+
+a:hover{
+
+    font-size: 50px;
+    background: black;
+    padding:10px 10px;
+    display:inline-block;
+    box-shadow: 10px 10px black
+}
+
+a:active{
+    background: green
+}
+
+a:visited{
+    color: gray
+}
+
+.menu { width: 100% ; 
+    background: black;
+    list-style:none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.menu li { display:inline-block;}
+.menu li a {padding: 10px 20px; display: inline-block; font-size: 30px; color: white}
+
+
+div .caja1 {
+    position: absolute;
+    top: 10%;
+    left: 83%;
+    right: 0%;
+    background: black;
+}
+
+.caja1 img {
+    width: 150px;
+    height: auto;
+    box-shadow: 0px 0px
+}
+
+.caja1 td {
+    padding: 10px;
+    
+
+}
+ 
+.caja1 td:hover {
+    background: gray
+
+}
